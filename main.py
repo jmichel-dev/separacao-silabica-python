@@ -8,6 +8,8 @@ for lang in ['pt_BR']:
 # Create some hyphenators
 pt_br = Hyphenator('pt_BR')
 
-silabas = pt_br.syllables('politicamente')
+word = input("Digite a palavra: ")
+
+silabas = pt_br.syllables(word)
 
 print(silabas)
