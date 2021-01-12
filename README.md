@@ -1,8 +1,8 @@
 # Descrição
 > Separação silábica simples usando PyHyphen
 
-# Requerimentos
-------------
+## Requerimentos
+
 Para instalar as dependências é necessário ter no máximo o python3.6. No python3.7 existe um problema na instalação do pyhyphen
 ## Instalação
 
